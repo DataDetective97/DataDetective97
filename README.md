@@ -1,4 +1,3 @@
-![Data-Science-1024x576](https://user-images.githubusercontent.com/26179993/126469358-a29cbc20-cb42-48e4-8dfa-9d9cbff26d06.jpeg)
 ![Data-Science-2](https://user-images.githubusercontent.com/85665940/126472628-089f19da-c670-4935-a082-1678d2238126.jpeg)
 
 
