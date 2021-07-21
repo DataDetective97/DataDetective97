@@ -1,5 +1,4 @@
 ![hero-past-present-future-of-data-report](https://user-images.githubusercontent.com/85665940/126473553-67114184-e972-4bfb-b30b-18fbcf64d149.jpg)
-![Data-Science-2](https://user-images.githubusercontent.com/85665940/126472628-089f19da-c670-4935-a082-1678d2238126.jpeg)
 
 
 
