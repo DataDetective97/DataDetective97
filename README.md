@@ -1,4 +1,4 @@
-![Data-Science-1024x576](https://user-images.githubusercontent.com/26179993/126469358-a29cbc20-cb42-48e4-8dfa-9d9cbff26d06.jpeg=width=100)
+![Data-Science-1024x576](https://user-images.githubusercontent.com/26179993/126469358-a29cbc20-cb42-48e4-8dfa-9d9cbff26d06.jpeg|width=100)
 
 
 ## 😎 Introduction
